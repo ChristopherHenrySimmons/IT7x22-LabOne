@@ -1,0 +1,6 @@
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\obj\Debug\LeapYearLoop.csproj.CoreCompileInputs.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\bin\Debug\LeapYearLoop1.exe.config
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\bin\Debug\LeapYearLoop1.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\bin\Debug\LeapYearLoop1.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\obj\Debug\LeapYearLoop1.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\LeapYearLoop1\obj\Debug\LeapYearLoop1.pdb

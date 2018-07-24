@@ -1,0 +1,6 @@
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\bin\Debug\ListValueTypes.exe.config
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\bin\Debug\ListValueTypes.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\bin\Debug\ListValueTypes.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\obj\Debug\ListValueTypes.csproj.CoreCompileInputs.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\obj\Debug\ListValueTypes.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\ListValueTypes\obj\Debug\ListValueTypes.pdb

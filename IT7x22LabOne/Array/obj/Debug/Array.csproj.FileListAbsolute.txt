@@ -1,0 +1,7 @@
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\bin\Debug\Array.exe.config
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\bin\Debug\Array.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\bin\Debug\Array.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\obj\Debug\Array.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Array\obj\Debug\Array.pdb

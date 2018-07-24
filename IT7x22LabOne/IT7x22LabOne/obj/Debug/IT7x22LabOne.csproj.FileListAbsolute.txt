@@ -1,0 +1,7 @@
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\obj\Debug\IT7x22LabOne.csprojAssemblyReference.cache
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\obj\Debug\IT7x22LabOne.csproj.CoreCompileInputs.cache
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\bin\Debug\IT7x22LabOne.exe.config
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\bin\Debug\IT7x22LabOne.exe
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\bin\Debug\IT7x22LabOne.pdb
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\obj\Debug\IT7x22LabOne.exe
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\IT7x22LabOne\obj\Debug\IT7x22LabOne.pdb

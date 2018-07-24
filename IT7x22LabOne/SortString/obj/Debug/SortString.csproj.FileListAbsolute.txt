@@ -1,0 +1,6 @@
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\bin\Debug\SortString.exe.config
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\bin\Debug\SortString.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\bin\Debug\SortString.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\obj\Debug\SortString.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\SortString\obj\Debug\SortString.pdb

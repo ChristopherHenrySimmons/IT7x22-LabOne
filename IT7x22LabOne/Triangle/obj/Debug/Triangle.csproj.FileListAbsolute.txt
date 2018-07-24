@@ -1,0 +1,12 @@
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.exe.config
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.exe
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.pdb
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.exe
+E:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\obj\Debug\Triangle.pdb
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.exe.config
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.exe
+G:\2018_S2\IT7x22\Labs\Lab001\IT7x22LabOne\Triangle\bin\Debug\Triangle.pdb
